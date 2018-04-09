@@ -7,3 +7,4 @@
 'use strict';
 
 require('./bin.js').run();
+console.log (require('./bin.js').run();
